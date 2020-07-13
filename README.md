@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello World
 
-<!--
-**neteinstein/neteinstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pedro Vicente](https://github.com/neteinstein/neteinstein/raw/master/github-header.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Improver, Husband and Father of 3 
+- Senior Software Craftsman [@Mindera](https://github.com/Mindera)
+- Co-Founder of [@GDGPorto](https://github.com/GDGPorto)
+- Co-Founder of Feedback Game [@LoopGain](https://github.com/LoopGainOrg)
+- Fire 🔥 Host @ [O Que Arde Cura](https://www.facebook.com/oqueardecura/)
+
+
+## Get in touch around the web 🌍
+
+- [Twitter](https://twitter.com/neteinstein) 🐦
+- [Personal Site](https://about.me/neteinstein) 🌍
