@@ -4,9 +4,9 @@
 
 
 - Improver, Husband and Father of 3 
-- Senior Software Craftsman [@Mindera](https://github.com/Mindera)
-- Co-Founder of [@GDGPorto](https://github.com/GDGPorto)
-- Co-Founder of Feedback Game [@LoopGain](https://github.com/LoopGainOrg)
+- Senior Software Craftsman [@Mindera](https://www.mindera.com)
+- Co-Founder of [@GDGPorto](https://gdgporto.xyz/)
+- Co-Founder of Feedback Game [@LoopGain](http://www.loopgain.org)
 - Fire 🔥 Host @ [O Que Arde Cura](https://www.facebook.com/oqueardecura/)
 
 
