@@ -6,7 +6,7 @@
 
 ## Who?
 
-- Want to know? [Peak here](https://www.neteinstein.org)
+- Want to know more? [Take a peek](https://www.neteinstein.org)
 
 ### TLDR:
 - Improver, Husband and Father of 🧓🧒👶
