@@ -2,7 +2,7 @@
 
 ![Pedro Vicente](https://github.com/neteinstein/neteinstein/raw/master/github-header.png)
 
-☝️ Yes this is creepy. I found that funny, so I left it.
+☝️ Yes this is creepy. I find that funny... so I kept it 😆
 
 ## Who?
 
