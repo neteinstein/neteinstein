@@ -6,11 +6,11 @@
 
 ## Who?
 
-- Want to know more? [Take a peek](https://www.neteinstein.org)
+- Want to know more? [Take a peek](https://www.pedrovicente.pt)
 
 ### TLDR:
 - Improver, Husband and Father of 🧓🧒👶
-- Principal Software Craftsman [@Mindera](https://www.mindera.com)
+- Mobile Services Lead & Principal Software Craftsman [@Mindera](https://www.mindera.com)
 - Co-Founder of [@GDGPorto](https://gdgporto.xyz/)
 - Creator of Feedback Game [@LoopGain](http://www.loopgain.org)
 - Co-Creator & 🔥 Co-Host @ [O Que Arde Cura](https://www.facebook.com/oqueardecura/)
