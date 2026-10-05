@@ -6,7 +6,7 @@
 
 ## Who?
 
-- Want to know more? [Take a peek](https://www.pedrovicente.pt)
+- Want to know more? [Take a peak](https://www.pedrovicente.pt)
 
 ### TLDR:
 - Improver, Husband and Father of 🧓🧒👶
