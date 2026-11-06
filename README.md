@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://www.pedrovicente.pt"><img src="https://github.com/neteinstein/neteinstein/raw/master/github-header.png" alt="Pedro Vicente" width="100%"></a>
-
-<sub>☝️ Yes, this is creepy. I find that funny... so I kept it 😆</sub>
+<a href="https://www.pedrovicente.pt"><img src="https://github.com/neteinstein/neteinstein/raw/master/header.jpg" alt="Pedro Vicente on stage, arms wide open, next to a row of neon lights" width="100%"></a>
 
 # Hello World
 
