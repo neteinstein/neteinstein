@@ -55,7 +55,7 @@ Free apps and games, mostly built to solve a problem someone at home or at work 
 
 | | Project | What it does | Built with |
 |:-:|---|---|---|
-| 🔁 | **[LoopGain](https://www.loopgain.org)** · [code](https://github.com/neteinstein/loopgain) | The feedback game for teams, now an app | Kotlin Multiplatform |
+| 🔁 | **[LoopGain](https://www.loopgain.org)** | The feedback game for teams, now an app | Kotlin Multiplatform |
 | 💞 | **[LoopGain Couples](https://couples.loopgain.org)** · [code](https://github.com/neteinstein/CoupleMoments) | Deeper conversations for couples | Kotlin Multiplatform |
 | 👨‍👩‍👧 | **[LoopGain Family](https://family.loopgain.org)** · [code](https://github.com/neteinstein/FamilyMoments) | Deeper conversations with the people you love | Kotlin |
 | 📅 | **[Calendar Sync](https://github.com/neteinstein/Calendar-Sync)** | Mac menu bar app that stops people booking you over meetings they can't see | Swift |
