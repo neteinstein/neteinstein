@@ -56,10 +56,10 @@ Free apps and games, mostly built to solve a problem someone at home or at work 
 | | Project | What it does | Built with |
 |:-:|---|---|---|
 | 🔁 | **[LoopGain](https://www.loopgain.org)** | The feedback game for teams, now an app | Kotlin Multiplatform |
-| 💞 | **[LoopGain Couples](https://couples.loopgain.org)** · [code](https://github.com/neteinstein/CoupleMoments) | Deeper conversations for couples | Kotlin Multiplatform |
-| 👨‍👩‍👧 | **[LoopGain Family](https://family.loopgain.org)** · [code](https://github.com/neteinstein/FamilyMoments) | Deeper conversations with the people you love | Kotlin |
+| 💞 | **[LoopGain Couples](https://couples.loopgain.org)** | Deeper conversations for couples | Kotlin Multiplatform |
+| 👨‍👩‍👧 | **[LoopGain Family](https://family.loopgain.org)** | Deeper conversations with the people you love | Kotlin |
 | 📅 | **[Calendar Sync](https://github.com/neteinstein/Calendar-Sync)** | Mac menu bar app that stops people booking you over meetings they can't see | Swift |
-| 🧾 | **[Invoice2Sheet](https://invoice2sheet.pedrovicente.pt/)** · [code](https://github.com/neteinstein/Invoice2Sheet) | Snap a Portuguese invoice, get a row in your Google Sheet | Kotlin |
+| 🧾 | **[Invoice2Sheet](https://invoice2sheet.pedrovicente.pt/)** | Snap a Portuguese invoice, get a row in your Google Sheet | Kotlin |
 | 💰 | **[Net Worth](https://networth.pedrovicente.pt/)** · [code](https://github.com/neteinstein/Net-Worth) | Family finances on Android, iOS and web (in beta) | Kotlin Multiplatform |
 | ➕ | **[MathClash](https://neteinstein.github.io/MathClash/)** · [code](https://github.com/neteinstein/MathClash) | Maths duel for 2 to 4 players on one screen | TypeScript |
 | 🧠 | **[Memory Clash](https://neteinstein.github.io/MemoryClash/)** · [code](https://github.com/neteinstein/MemoryClash) | Memory battle for 2 to 4 players on one screen | TypeScript |
